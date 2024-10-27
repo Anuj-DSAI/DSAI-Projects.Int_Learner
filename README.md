@@ -8,7 +8,8 @@ The project description requirements and dataset were sourced from the [https://
 
 #Project Files
 
-#Bank_Loan_Analysis.pbix: 
+1) Bank_Loan_Analysis.pbix: 
 Power BI file containing the dashboard and visualizations for bank loan analysis.
 Bank_Loan_Analysis.pdf: PDF document providing a detailed analysis report based on the Power BI dashboard.
-Bank Loan PPT Power BI.pptx: PowerPoint presentation outlining the project guidelines and requirements for the bank loan analysis.
+
+2) Bank Loan PPT Power BI.pptx: PowerPoint presentation outlining the project guidelines and requirements for the bank loan analysis.
