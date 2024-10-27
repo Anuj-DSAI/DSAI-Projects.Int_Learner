@@ -1,2 +1,3 @@
-# DSAI-Projects.Int_Learner
-This repository contains various data science projects I've worked on, showcasing my skills in data analysis, machine learning, and data visualization. Each project includes well-documented code, datasets, and insights generated from the analysis. 
+# BANK LOAN-Project.Int_Learner
+The Bank Loan Data Project in Power BI provides an in-depth analysis of loan performance, customer credit profiles, and risk assessment metrics.
+This dashboard empowers bank analysts and managers to monitor loan portfolio health, optimize lending strategies, and enhance credit risk management practices through data-driven insights.
